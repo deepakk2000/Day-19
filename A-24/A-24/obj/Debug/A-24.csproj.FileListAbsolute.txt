@@ -1,0 +1,7 @@
+D:\.net\Day-19\A-24\A-24\bin\Debug\A-24.exe.config
+D:\.net\Day-19\A-24\A-24\bin\Debug\A-24.exe
+D:\.net\Day-19\A-24\A-24\bin\Debug\A-24.pdb
+D:\.net\Day-19\A-24\A-24\obj\Debug\A-24.csproj.AssemblyReference.cache
+D:\.net\Day-19\A-24\A-24\obj\Debug\A-24.csproj.CoreCompileInputs.cache
+D:\.net\Day-19\A-24\A-24\obj\Debug\A-24.exe
+D:\.net\Day-19\A-24\A-24\obj\Debug\A-24.pdb
